@@ -17,6 +17,7 @@ b = int(input("Enter seconf number:"))
 print(sum(a,b))
 
 
+
 print('Practice questions regarding functions.')
 
 
